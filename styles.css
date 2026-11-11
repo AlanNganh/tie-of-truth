@@ -99,7 +99,7 @@ h1, h2, h3, p { margin-top: 0; }
 .experience-media { height: 194px; min-width: 0; position: relative; overflow: hidden; margin: 18px 0 19px; background: #e7e7e2; }
 .experience-media img { display: block; width: 100%; height: 100%; object-fit: cover; transition: transform .45s ease; }
 .experience-card:hover .experience-media img { transform: scale(1.035); }
-.soccer-media img { object-position: center 45%; }
+.soccer-media img { object-position: center 12%; }
 .volunteer-media img { object-position: center 56%; }
 .experience-media figcaption { position: absolute; bottom: 10px; left: 10px; padding: 7px 9px; color: white; background: rgba(25,27,25,.78); font-family: var(--display); font-size: 7px; font-weight: 700; letter-spacing: .13em; }
 .experience-card h3 { margin: 0 0 7px; font-family: var(--display); font-size: 18px; font-weight: 600; letter-spacing: -.04em; }
