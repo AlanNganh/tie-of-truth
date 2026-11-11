@@ -1,6 +1,6 @@
 "use strict";
 
-const publishedProfileUrl = "https://alann.github.io/tie-of-truth/";
+const publishedProfileUrl = "https://alannganh.github.io/tie-of-truth/";
 
 const qrContainer = document.getElementById("qr-code");
 const qrLink = document.getElementById("qr-download");
