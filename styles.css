@@ -96,7 +96,7 @@ h1, h2, h3, p { margin-top: 0; }
 .experience-card:hover { transform: translateY(-4px); background: rgba(255,255,255,.75); box-shadow: 0 12px 35px rgba(24,26,23,.06); }
 .card-topline { display: flex; justify-content: space-between; color: #858781; font-size: 7px; }
 .card-count { color: #a4a69f; }
-.experience-media { height: 194px; position: relative; overflow: hidden; margin: 18px 0 19px; background: #e7e7e2; }
+.experience-media { height: 194px; min-width: 0; position: relative; overflow: hidden; margin: 18px 0 19px; background: #e7e7e2; }
 .experience-media img { display: block; width: 100%; height: 100%; object-fit: cover; transition: transform .45s ease; }
 .experience-card:hover .experience-media img { transform: scale(1.035); }
 .soccer-media img { object-position: center 45%; }
