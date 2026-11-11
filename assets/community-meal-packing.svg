@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 500" fill="none">
+  <defs>
+    <linearGradient id="wall" x1="480" y1="0" x2="480" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F0F0EC"/>
+      <stop offset="1" stop-color="#DADBD5"/>
+    </linearGradient>
+    <linearGradient id="table" x1="480" y1="310" x2="480" y2="475" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C9C5BC"/>
+      <stop offset="1" stop-color="#9E9B93"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="500" fill="url(#wall)"/>
+  <path d="M0 316h960v184H0z" fill="#E5E4DE"/>
+  <path d="M78 52h206v140H78z" fill="#D6DAD7"/>
+  <path d="M95 68h172v108H95z" fill="#EDF0EC"/>
+  <path d="M180 68v108M95 122h172" stroke="#D3D7D1" stroke-width="5"/>
+  <path d="M683 49h191v151H683z" fill="#D6DAD7"/>
+  <path d="M699 65h159v118H699z" fill="#EDF0EC"/>
+  <path d="M779 65v118M699 124h159" stroke="#D3D7D1" stroke-width="5"/>
+
+  <path d="M105 295c4-55 38-88 84-88s78 35 82 88" fill="#343734"/>
+  <circle cx="189" cy="174" r="36" fill="#C99472"/>
+  <path d="M151 172c-4-36 18-61 47-61 24 0 42 17 42 45-18-8-30-20-35-32-12 17-28 25-53 28v20Z" fill="#35312D"/>
+  <path d="M300 294c4-63 40-96 88-96s83 35 88 96" fill="#777B75"/>
+  <circle cx="388" cy="177" r="37" fill="#E0B99F"/>
+  <path d="M351 170c3-35 22-56 49-56 25 0 43 18 42 48-20-4-35-17-44-31-9 14-24 25-47 29Z" fill="#4B413A"/>
+  <path d="M564 294c5-56 38-91 84-91 48 0 79 35 83 91" fill="#404641"/>
+  <circle cx="648" cy="174" r="36" fill="#A9745E"/>
+  <path d="M612 171c1-35 20-58 48-58 27 0 44 20 43 52-17-5-31-16-40-31-10 14-27 24-51 26Z" fill="#302C28"/>
+  <path d="M760 294c4-60 39-93 87-93 45 0 79 34 83 93" fill="#777A74"/>
+  <circle cx="847" cy="175" r="36" fill="#D9B18F"/>
+  <path d="M811 169c2-35 22-57 48-57 26 0 44 20 43 49-18-4-33-16-42-31-9 14-24 24-49 28Z" fill="#51473E"/>
+
+  <path d="M80 285h800l-38 45H118l-38-45Z" fill="#535750"/>
+  <path d="M118 330h724l-25 135H143l-25-135Z" fill="url(#table)"/>
+  <path d="M153 352h654v22H153z" fill="#DCD9D1"/>
+
+  <path d="M205 261c35 7 59 23 84 47m-10-44 27 29" stroke="#C99472" stroke-width="13" stroke-linecap="round"/>
+  <path d="M342 251c29 10 50 25 67 52m-7-49 27 29" stroke="#E0B99F" stroke-width="13" stroke-linecap="round"/>
+  <path d="M587 252c-30 9-51 24-69 49m10-47-28 28" stroke="#A9745E" stroke-width="13" stroke-linecap="round"/>
+  <path d="M750 256c-34 7-58 23-81 49m9-46-27 29" stroke="#D9B18F" stroke-width="13" stroke-linecap="round"/>
+
+  <path d="M263 321h112v113H263z" fill="#F6F5F1"/>
+  <path d="M272 332h94v89h-94z" stroke="#A8AAA3" stroke-width="3"/>
+  <path d="M290 352h58v4h-58zm0 12h58v4h-58zm0 12h58v4h-58z" fill="#A8AAA3"/>
+  <path d="M424 312h110v122H424z" fill="#ECEAE4"/>
+  <path d="M434 323h90v98h-90z" stroke="#969991" stroke-width="3"/>
+  <path d="M455 348h48v5h-48zm0 13h48v5h-48zm0 13h48v5h-48z" fill="#969991"/>
+  <path d="M575 321h112v113H575z" fill="#F6F5F1"/>
+  <path d="M585 332h92v89h-92z" stroke="#A8AAA3" stroke-width="3"/>
+  <path d="M603 352h56v4h-56zm0 12h56v4h-56zm0 12h56v4h-56z" fill="#A8AAA3"/>
+
+  <circle cx="207" cy="391" r="14" fill="#B3A58F"/>
+  <circle cx="233" cy="391" r="14" fill="#C8B89C"/>
+  <circle cx="726" cy="393" r="14" fill="#B3A58F"/>
+  <circle cx="752" cy="393" r="14" fill="#C8B89C"/>
+  <path d="M209 385c-1-8 9-13 13-7-3 5-7 8-13 7Zm518 1c2-8 12-10 14-3-4 4-9 6-14 3Z" fill="#7B8A72"/>
+
+  <path d="M38 467h884" stroke="#C5C6C0" stroke-width="2"/>
+  <text x="480" y="483" fill="#777A74" font-family="Arial,sans-serif" font-size="12" letter-spacing="3" text-anchor="middle">A MEAL PACKING DAY, TOGETHER</text>
+</svg>
